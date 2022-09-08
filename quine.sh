@@ -1,3 +1,3 @@
 git clone https://github.com/RuralAnemone/quine
 cd quine
-./quine.sh
+chmod +x quine.sh && ./quine.sh
